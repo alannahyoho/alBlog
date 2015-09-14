@@ -3,7 +3,7 @@ title: Alannah's Blog
 header-img: img/home-bg.jpg
 email: sebamor12@gmail.com
 description: "Alannah's Blog"
-baseurl: ""
+baseurl: "/alBlog"
 url: "sebamor.github.io/alBlog"
 twitter_username: Sebamor
 github_username:  Sebamor
