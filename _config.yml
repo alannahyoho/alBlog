@@ -1,13 +1,13 @@
 # Site settings
-title: Alannah's Blog
+title: Alannah
 header-img: img/home-bg.jpg
 email: sebamor12@gmail.com
-description: "Alannah's Blog"
+description: "A blog all about a day in the life of a professional cookie maker"
 baseurl: ""
 url: "alblog.ddns.net"
-twitter_username: Sebamor
-github_username:  Sebamor
-facebook_username:  Alannah Yoho
+twitter_username: Alannah's Classic Homemade Cookies
+github_username: Sebamor
+facebook_username: Alannah Cookies
 
 # Build settings
 markdown: kramdown
