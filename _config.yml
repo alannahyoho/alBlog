@@ -5,9 +5,9 @@ email: alannahyoho@gmail.com
 description: "A blog all about a day in the life of a professional cookie maker"
 baseurl: ""
 url: "alblog.ddns.net"
-twitter_username: alannahyoho
+twitter_username: 
 github_username: alannahyoho
-facebook_username: alannahyoho
+facebook_username: 
 
 # Build settings
 markdown: kramdown
